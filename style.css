@@ -1,0 +1,35 @@
+body{
+  background: #4D33FF;
+  color:#000;
+}
+h3{
+  color:#fff;
+}
+h1{
+  background:#000;
+  color:#33FFF4;
+}
+h2{
+
+  color:#000;
+}
+p{
+  background: #000;
+  color:#fff;
+}
+#contact-form{
+  background:#E733FF;
+  color:#500;
+}
+form>h4{
+  color:#fff;
+}
+body{
+  margin:20px 30px;
+}
+form{
+  margin:20px 50px;
+}
+body>header{
+  border:3px solid #f00; ;
+}
